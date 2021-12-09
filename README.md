@@ -12,4 +12,5 @@ At the moment, you only need to run ```node solution.js``` to use my code.
 - [x] Day 1: Sonar sweep
 - [x] Day 2: Dive !
 - [x] Day 3: Binary diagnostic
-- [ ] Day 4: Giant squid
+- [x] Day 4: Giant squid
+- [ ] Day 5: Hydrothermal Venture
