@@ -13,4 +13,4 @@ At the moment, you only need to run ```node solution.js``` to use my code.
 - [x] Day 2: Dive !
 - [x] Day 3: Binary diagnostic
 - [x] Day 4: Giant squid
-- [ ] Day 5: Hydrothermal Venture
+- [x] Day 5: Hydrothermal Venture
